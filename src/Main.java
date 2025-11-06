@@ -3,5 +3,6 @@ public class Main {
         Ejercicio1.main();
         Ejercicio2.main();
         System.out.println("");
-    }
+        System.out.println("5");
+     }
 }
